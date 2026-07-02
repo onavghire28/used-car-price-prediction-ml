@@ -197,8 +197,8 @@ Data Analytics Enthusiast | Machine Learning | Excel | SQL | Power BI | Python
 
 🔗 GitHub: https://github.com/onavghire28
 
-🔗 LinkedIn: https://linkedin.com/in/your-linkedin-profile
+🔗 LinkedIn: https://www.linkedin.com/in/om-navghire-520712289
 
 ---
 ## ⭐ If you found this project useful, please consider giving it a Star on GitHub!
----
+

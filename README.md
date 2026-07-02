@@ -172,18 +172,14 @@ used-car-price-prediction/
 ├── requirements.txt
 ├── README.md
 ├── dataset.csv
-└── images/
+└── result/
 ```
 
----
-
-## Project Report 
-- [Project Report](https://github.com/onavghire28/Insurance-Charges-Prediction/blob/main/Report.pdf)
 
 ---
 
-## Dashboard Image
-- [Dashboard](https://github.com/onavghire28/Insurance-Charges-Prediction/blob/main/Dashboard_Image.png)
+## Result
+- [Result](https://github.com/onavghire28/used-car-price-prediction-ml/blob/main/result.pdf)
 
 
 ---

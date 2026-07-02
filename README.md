@@ -174,7 +174,10 @@ used-car-price-prediction/
 ├── dataset.csv
 └── result/
 ```
+---
 
+## 🚀 Live Demo
+- [Demo](https://used-car-price-prediction-ml-3cppmvdsyjskcrqvof8ofq.streamlit.app/)
 
 ---
 
